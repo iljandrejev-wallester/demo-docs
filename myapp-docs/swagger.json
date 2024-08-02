@@ -1,5 +1,5 @@
 {
-    "basePath": "/",
+    "basePath": "https://api.wallester.eu",
     "consumes": [
       "application/json",
       "multipart/form-data"

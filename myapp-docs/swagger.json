@@ -1,6 +1,5 @@
 {
     "host": "https://api.wallester.eu",
-    "basePath": "/",
     "consumes": [
       "application/json",
       "multipart/form-data"
@@ -39521,7 +39520,6 @@
         "x-go-package": "github.com/wallester/api/controller"
       }
     },
-    "host": "localhost:8000",
     "info": {
       "contact": {
         "email": "operations@wallester.com",

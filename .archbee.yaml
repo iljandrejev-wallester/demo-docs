@@ -5,8 +5,12 @@ structure:
   docTreeOptions:
     openApiTryIt: false
     showDownloadOpenApiFile: false
-    shouldCreateSchemaCategory: true
+    shouldCreateSchemaCategory: false
     shouldCreateIntro: false
-    openApiLanguageExamples: false
+    openApiLanguageExamples:
+      - value: javascript
+        label: js
+      - value: go
+        label: go
 footerTemplate: ""
 headerIncludes: ""
